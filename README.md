@@ -68,3 +68,5 @@ Bootstrap was used to handle the page styles
 ---
 ### <a id="screenshots" /> 
 # Screenshots
+![Interfaz](https://github.com/ReploidGI0/calorie-tracker/blob/main/images/calorietracker1.PNG "Interfaz")
+![Interfaz](https://github.com/ReploidGI0/calorie-tracker/blob/main/images/calorietracker.PNG "Interfaz")
